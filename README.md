@@ -9,12 +9,17 @@ QRCodeScanner is a demo QR scanner application based on MLKit.<br>This project i
 </p>
 </br>
 
+<p align="center">
+<img src="/screenshot/capture_1.png" width="31%"/>
+<img src="/screenshot/capture_2.png" width="31%"/>
+</p>
+</br>
+
 ## Download
 Go to the [APK](https://github.com/tuan-di/QRCodeScanner/tree/main/apk) to download the latest APK.
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 23
-- [Kotlin](https://kotlinlang.org/) based,
 - [Dialog](https://github.com/afollestad/material-dialogs) - Material dialog.
 - [Permission](https://github.com/googlesamples/easypermissions) - Simplify basic system permissions.
 - [MLKit Vision](https://developers.google.com/ml-kit/vision/barcode-scanning/android) - Scan Barcodes with ML Kit on Android official document.
