@@ -10,7 +10,7 @@ QRCodeScanner is a demo QR scanner application based on MLKit.<br>This project i
 </br>
 
 ## Download
-Go to the [Releases](https://github.com/tuan-di/QRCodeScanner/releases) to download the latest APK.
+Go to the [APK](https://github.com/tuan-di/QRCodeScanner/tree/main/apk) to download the latest APK.
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 23
